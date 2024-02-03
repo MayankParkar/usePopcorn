@@ -9,7 +9,7 @@ Detailed Movie Page: Clicking on a search result leads to a comprehensive page d
 Movie poster and title
 IMDb rating and runtime
 Director information
-User rating system (0-5 stars)
+User rating system (0-10 stars)
 Option to update the user rating
 Key Components and Their Roles:
 
