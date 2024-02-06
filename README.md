@@ -30,7 +30,7 @@ git clone https://github.com/<your-username>/usePopcorn.git
 2. Navigate to the project directory:
 
 ```bash
-cd react-travel-list
+cd usePopcorn
 ```
 
 3. Install dependencies:
